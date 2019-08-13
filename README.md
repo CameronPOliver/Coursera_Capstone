@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Repository for Coursera IBM Data Science Capstone
+This repository will be used to organize work on the capstone project for the IBM Datascience Coursera course
