@@ -1,1 +1,5 @@
+# The Battle Of The Neighborhoods (Capstone week 4 and week 5)
 
+### 1. Comparing major cities to surrounding suburban and rural communities, I want to see if the major cities are more similar to one another, or to the communities around them.  I am also interested in the relationships between the surrounding communities in different areas.  Essentially I want to find out if the cultural difference between an urban center and its surrounding communities is greater than the cultural difference between communities in different parts of the world.
+
+### 2. In order to make a tangible comparison, I will collect data on the venue categories existing in Toronto, New York City, and Paris, as well as in 3 randomly selected towns around each city.  Using K-means clustering, I will categorize different neighborhoods in each city/town, and compare the ratio of clusters in the towns and cities to determine if urban centers are more similar to their surrounding regions, or if urban centers are more similar to other urban centers, and towns more similar to other towns.
